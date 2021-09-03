@@ -49,7 +49,7 @@ Jupyter Notebook
 
  - https://insights.stackoverflow.com/survey
 
- - Keith Galli
+ - [Keith Galli](https://www.youtube.com/channel/UCq6XkhO5SZ66N04IcPbqNcw)
 
 
 
